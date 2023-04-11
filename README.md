@@ -1,5 +1,6 @@
-## Nama Kelompok: 
-# **First from behind**
+<h2> Nama Kelompok: </h2>
+
+<h1>First from behind</h1>
 
 ## Topik Tugas Akhir: 
 # **Aplikasi Manajemen Organisasi berbasis Website menggunakan framework Laravel pada studi kasus UKM FKIP MENGAJAR ULM**
