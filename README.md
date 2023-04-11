@@ -1,3 +1,19 @@
+# Judul : Pegadaiaan
+# Kelompok : 1 (satu)
+
+Anggota : 
+1. Muhammad Ramadhani - 2110131210003 (Madhan215)
+2. Najwan Nur Iman - NIM (Username GitHub)
+3. Aulia Suryanullah - NIM (Username GitHub)
+
+# Cara menjalankan di lokal host
+
+- Download atau git clone repo ini
+- Pindahkan kedalam **\xampp\htdocs**
+- Import database ke dalam phpMyAdmin dengan nama **rumahfm**
+- Copy semua file lalu pindahkan ke dalam **\xampp\htdocs\rumahfm**
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
