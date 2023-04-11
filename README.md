@@ -1,9 +1,6 @@
-<h2> Nama Kelompok: </h2>
+## Nama Kelompok: **First from behind**
 
-<h1>First from behind</h1>
-
-## Topik Tugas Akhir: 
-# **Aplikasi Manajemen Organisasi berbasis Website menggunakan framework Laravel pada studi kasus UKM FKIP MENGAJAR ULM**
+## Topik Tugas Akhir: **Aplikasi Manajemen Organisasi berbasis Website menggunakan framework Laravel pada studi kasus UKM FKIP MENGAJAR ULM**
 
 Ketua Kelompok: Muhammad Ramadhani
 
