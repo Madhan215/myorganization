@@ -6,8 +6,8 @@ Ketua Kelompok: Muhammad Ramadhani
 
 Anggota : 
 1. Muhammad Ramadhani - 2110131210003 (Madhan215)
-2. Najwan Nur Iman - NIM (Username GitHub)
-3. Aulia Suryanullah - NIM (Username GitHub)
+2. Najwan Nur Iman - NIM (NajwanNurIman)
+3. Aulia Suryanullah - NIM (suryanullah)
 
 ## Cara menjalankan di lokal host
 - Download atau git clone repo ini
