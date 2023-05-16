@@ -1,23 +1,3 @@
-## Nama Kelompok: **First from behind**
-
-## Topik Tugas Akhir: **Aplikasi Manajemen Organisasi berbasis Website menggunakan framework Laravel pada studi kasus UKM FKIP MENGAJAR ULM**
-
-Ketua Kelompok: Muhammad Ramadhani
-
-Anggota : 
-1. Muhammad Ramadhani - 2110131210003 (Madhan215)
-2. Najwan Nur Iman - NIM (NajwanNurIman)
-3. Aulia Suryanullah - NIM (suryanullah)
-
-## Cara menjalankan di lokal host
-- Download atau git clone repo ini
-- Pindahkan kedalam **\xampp\htdocs**
-- Import database ke dalam phpMyAdmin dengan nama **rumahfm**
-- Copy semua file lalu pindahkan ke dalam **\xampp\htdocs\rumahfm**
-
-
-
-<!-- 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -83,4 +63,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
